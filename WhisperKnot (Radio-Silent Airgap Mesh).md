@@ -1,0 +1,5 @@
+🦇 WhisperKnot (Radio-Silent Airgap Mesh)
+A P2P chat and file-sharing protocol that uses sound and light instead of WiFi
+The Concept: A communication network for highly hostile environments where radio frequencies (WiFi, Bluetooth, Cellular) are monitored, jammed, or physically absent. WhisperKnot transmits data entirely through ultrasonic audio (using standard laptop/phone speakers and microphones at frequencies humans can't hear) and high-speed optical QR flashes (screen-to-camera). You put two laptops facing each other in a room with the WiFi/Bluetooth physically removed. They establish a cryptographic handshake via high-speed screen flashing, and then stream encrypted chat and files over silent sound waves.
+
+Why it’s next level: It brings nation-state level air-gap jumping techniques to the open-source community. It feels like absolute magic to watch two computers transfer a file with zero network interfaces active. Tech Stack: C/Rust, Audio DSP (frequency-shift keying over 18kHz+), OpenCV (high-framerate QR tracking), Noise Protocol Framework (encryption).
