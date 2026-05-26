@@ -1,0 +1,5 @@
+⚔️ Babylon Firewall (The Dead Internet Weaponizer)
+A proxy that spawns AI bots to fight corporate bots on your behalf
+The Concept: The internet is dying, overrun by SEO spam, customer service bots, cookie banners, and captchas. The Babylon Firewall is a local proxy that sits between your browser and the web. When it detects a hostile corporate script, it fights fire with fire. If a site demands a Captcha, it routes it to a local vision-model to solve it. If a site uses behavioral tracking, Babylon spawns 5 invisible background tabs that navigate the site randomly to poison their analytics. If you are forced to use a customer service chatbot, Babylon takes over your keyboard and argues with the bot using its own LLM until it connects you to a human.
+
+Why it’s next level: It is proactive digital self-defense. Instead of just "blocking" things like uBlock Origin, it actively wastes the resources, server compute, and analytics data of hostile tech companies. Tech Stack: Go (MITM Proxy), WebAssembly, local Vision-Language Models (LLaVA), Playwright/Puppeteer.
