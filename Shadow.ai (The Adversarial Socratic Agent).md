@@ -1,0 +1,5 @@
+🪞 Shadow.ai (The Adversarial Socratic Agent)
+An AI that refuses to agree with you, designed to destroy your echo chamber
+The Concept: Right now, AI is designed to be a sycophantic "yes man" that writes your emails and agrees with your bad ideas. Shadow.ai is the opposite. It is a strictly local, deeply adversarial AI companion. You feed it your code, your journal entries, your blog posts, or your tweets. Its sole purpose is to dismantle your logic, find your blind spots, and play Devil’s Advocate. If you write a piece of code, it tells you why your architecture is shortsighted. If you write an essay, it adopts the persona of your harshest critic and forces you to debate it before you hit publish.
+
+Why it’s next level: It subverts the current paradigm of AI as a subservient assistant and turns it into a cognitive sparring partner. It is a tool for intellectual rigorousness in an era of automated complacency. Tech Stack: Python, local Ollama/llama.cpp, LangChain, Ghostwriter-style local RAG (Retrieval-Augmented Generation).
